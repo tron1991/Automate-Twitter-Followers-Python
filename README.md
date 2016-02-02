@@ -48,4 +48,4 @@ Based on your settings in this file, you can follow, unfollow followers to your 
 
 ## Creator
 
-Nicholas Ivanecky ([@ivantr0n](http://twitter.com/ivantr0n))
+Nicholas Ivanecky ([@ivantr0n](http://twitter.com/ivantr0n)), To visit all my works visit ([www.ivantron.com](http://www.ivantron.com))
