@@ -5,10 +5,10 @@
 Auto-Follow 40 followers of the username below
 '''
 from twitter_follow_bot import auto_follow
-Auto_Follow("newyork", count=40)
+auto_follow("newyork", count=40)
 
 from twitter_follow_bot import auto_follow
-Auto_Follow("sanfrancisco", count=40)
+auto_follow("sanfrancisco", count=40)
 
 '''
 Auto-Follow the followers of the user below
